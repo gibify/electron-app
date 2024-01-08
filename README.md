@@ -32,3 +32,5 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+
+testando a minha chave SSH do Github
